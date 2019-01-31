@@ -118,5 +118,17 @@
         "repos": [
             "https://github.com/zcash/zcash"
         ]
-    }
+    },
+        {
+        "currency": "DCR",
+        "repos": [
+            "https://github.com/decred/dcrd",
+            "https://github.com/decred/dcrwallet",
+            "https://github.com/decred/decrediton"
+            "https://github.com/decred/dcrandroid",
+            "https://github.com/decred/politeia",
+            "https://github.com/decred/dcrtime",
+            "https://github.com/decred/atomicswap"
+        ]
+}
 ]
